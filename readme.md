@@ -1,7 +1,8 @@
 # LowCostWatch - Log Viewer
 
-![LowCostWatch Icon](icons/icon.png)
-
+<p align="center">
+  <img src="icons/icon.png" alt="LowCostWatch Icon" width="120px">
+</p>
 
 **LowCostWatch** é uma aplicação de desktop para visualização e filtragem de logs. A solução foi desenvolvida usando **Python**, **PyQt6** para a interface gráfica, e **boto3** para a interação com a AWS S3.
 
